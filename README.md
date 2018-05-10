@@ -1,7 +1,7 @@
 # devs-debug-humanity
-We love silly games, so we've an expansion to Cards Against Humanity focusing the developer way of life. we call it - ***devs.Debug(humanity);***.
+We love silly games, so we've an expansion to Cards Against Humanity focusing the developer way of life. we call it - **devs.Debug(humanity);**.
 
-And the cool thing is - dev against humanity is ***devs.Debug(humanity);***. so you may download, print, fork, and contribute your own cards.
+And the cool thing is - dev against humanity is **devs.Debug(humanity);**. so you may download, print, fork, and contribute your own cards.
 
 ## How to print at home?
 TBD
@@ -18,6 +18,6 @@ After the round, a new player becomes the Senior Developer, and everyone draws b
 ## House Rules
 Just like Cards Against Humanity we like to sometime remix the rules to make things more interesting. 
 
-**Race Condition**: A Black Card is drawn only after everyone passed their White Cards. 
-**Sudo**: everyone must say “sudo” before passing their cards. 
-**Artificial Intelligence**: Every round, pick one random White Card from the pile and place it into play. This card belongs to a Deep Neural Network called HAL, and if HAL wins the game, all players go home knowing the AI will soon rule us all.
++**Race Condition**: A Black Card is drawn only after everyone passed their White Cards. 
++**Sudo**: everyone must say “sudo” before passing their cards. 
++**Artificial Intelligence**: Every round, pick one random White Card from the pile and place it into play. This card belongs to a Deep Neural Network called HAL, and if HAL wins the game, all players go home knowing the AI will soon rule us all.

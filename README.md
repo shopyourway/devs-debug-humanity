@@ -18,6 +18,6 @@ After the round, a new player becomes the Senior Developer, and everyone draws b
 ## House Rules
 Just like Cards Against Humanity we like to sometime remix the rules to make things more interesting. 
 
-+**Race Condition**: A Black Card is drawn only after everyone passed their White Cards. 
-+**Sudo**: everyone must say “sudo” before passing their cards. 
-+**Artificial Intelligence**: Every round, pick one random White Card from the pile and place it into play. This card belongs to a Deep Neural Network called HAL, and if HAL wins the game, all players go home knowing the AI will soon rule us all.
+* **Race Condition**: A Black Card is drawn only after everyone passed their White Cards. 
+* **Sudo**: everyone must say “sudo” before passing their cards. 
+* **Artificial Intelligence**: Every round, pick one random White Card from the pile and place it into play. This card belongs to a Deep Neural Network called HAL, and if HAL wins the game, all players go home knowing the AI will soon rule us all.
